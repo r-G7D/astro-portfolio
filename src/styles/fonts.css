@@ -1,0 +1,130 @@
+/* Monsterrat */
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Thin.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-ExtraLight.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Light.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Regular.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Medium.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-SemiBold.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Bold.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-ExtraBold.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Monsterrat";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/assets/fonts/Monsterrat/Monsterrat-Black.ttf) format("trueType");
+}
+
+/* Poppins */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Thin.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-ExtraLight.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Light.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Regular.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Medium.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-SemiBold.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Bold.ttf) format("trueType");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-ExtraBold.ttf) format("trueType");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/assets/fonts/Poppins/Poppins-Black.ttf) format("trueType");
+}
