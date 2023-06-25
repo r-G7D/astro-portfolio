@@ -78,11 +78,13 @@ export const info = {
       title: "Astro Summarizer",
       isFeatured: true,
       thumbnail: "/assets/images/astro-summarizer.png",
+      githubUrl: "https://github.com/r-G7D/astro-summarizer",
     },
     {
       title: "Astro Portfolio",
       isFeatured: false,
       thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/r-G7D/astro-portfolio",
     },
   ],
 };
