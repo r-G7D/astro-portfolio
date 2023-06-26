@@ -60,31 +60,31 @@ export const info = {
     {
       title: "Assessment Link",
       isFeatured: true,
-      thumbnail: "/astro-portfolio/public/assets/images/asslink.png",
+      thumbnail: "/astro-portfolio/assets/images/asslink.png",
       liveUrl: "https://play.google.com/store/apps/details?id=com.unesa.assessmentlink",
     },
     {
       title: "Gamifikasi Kosakata Metode Penelitian",
       isFeatured: true,
-      thumbnail: "/astro-portfolio/public//assets/images/gami.png",
+      thumbnail: "/astro-portfolio/assets/images/gami.png",
     },
     {
       title: "Ailment Alleviate",
       isFeatured: true,
-      thumbnail: "/astro-portfolio/public/assets/images/ailment.png",
+      thumbnail: "/astro-portfolio/assets/images/ailment.png",
       githubUrl: "https://github.com/r-G7D/ailment_alleviate",
     },
     {
       title: "Astro Summarizer",
       isFeatured: true,
-      thumbnail: "/astro-portfolio/public/assets/images/astro-summarizer.png",
+      thumbnail: "/astro-portfolio/assets/images/astro-summarizer.png",
       githubUrl: "https://github.com/r-G7D/astro-summarizer",
       liveUrl: "https://r-g7d.github.io/astro-summarizer/",
     },
     {
       title: "Astro Portfolio",
       isFeatured: false,
-      thumbnail: "/astro-portfolio/public/assets/images/astro-portfolio.png",
+      thumbnail: "/astro-portfolio/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/r-G7D/astro-portfolio",
       liveUrl: "https://r-g7d.github.io/astro-portfolio/"
     },
