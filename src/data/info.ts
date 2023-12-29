@@ -2,22 +2,27 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Danang Rahmat Bachtiar",
   jobDescription: "Mobile Application Developer",
-  about: `I'm a passionate Mobile Application Developer with a knack for creating user-friendly and innovative mobile apps. With expertise in Flutter, I've developed apps for both Android and iOS platforms.
-  
-  Collaboration is my forte. Whether working with a team or independently, I thrive on delivering top-notch results that meet project objectives and timelines. I stay updated with the latest trends and technologies in mobile app development to ensure I bring fresh ideas to the table.
-  
-  I love the impact mobile apps can have on people's lives, simplifying tasks and enhancing experiences. Creating seamless and enjoyable app experiences is my driving force as a developer.
-  
-  Outside of coding, I enjoy staying connected with the tech community, attending conferences, and exploring new technologies.
-  
-  If you're looking for a dedicated and creative Mobile Application Developer, let's connect! Together, we can create exceptional mobile experiences.`,
+  about: `As an Informatics Engineering student specializing in Flutter, I have a proven track record in Mobile and Backend Development. Experienced in collaborating with cross-functional teams. Eager to contribute my skills and passion for innovation to future projects and collaborations.`,
 
-  experience: [
+  experience: [{
+    name : "Cloud Computing Cohort, Bangkit Academy led by GoTo, Gojek, & Traveloka",
+    location: "Online",
+    startDate: "Aug 2023",
+    endDate: "Dec 2023",
+    description: [
+      "- Engaged in comprehensive coursework, gaining proficiency in cloud technologies, and mastering platforms such as GCP.",
+      "- Collaborated effectively with cohort members on capstone projects, fostering a dynamic and cooperative learning environment.",
+      "- Applied critical thinking and problem-solving skills to address real-world challenges in cloud computing projects.",
+      "- Successfully implemented hands-on projects, demonstrating practical experience in building and deploying applications on the cloud.",
+      "- Communicated technical ideas and project progress clearly to peers, mentors, and instructors.",
+      "- Demonstrated professionalism in all interactions, adhering to project timelines and deadlines.",
+    ]
+  },
     {
       name: "Mobile Application Developer, PT. Inovasi Utama Nusantara",
       location: "Malang, Indonesia",
       startDate: "Dec 2022",
-      endDate: "Present",
+      endDate: "July 2023",
       description: [
         "- Collaborated with cross-functional teams to gather requirements and develop mobile applications for Android and iOS platforms.",
         "- Conducted thorough testing and debugging to identify and fix issues, ensuring high-quality and bug-free mobile applications.",
@@ -30,7 +35,7 @@ export const info = {
       name: "Mobile Application Developer, PUI-PT DLI",
       location: "Malang, Indonesia",
       startDate: "Apr 2022",
-      endDate: "Present",
+      endDate: "July 2023",
       description: [
         "- Collaborated with cross-functional teams to gather requirements and develop mobile applications for Android and iOS platforms.",
         "- Implemented user-friendly interfaces, ensuring a seamless and intuitive user experience.",
@@ -57,6 +62,18 @@ export const info = {
   },
 
   projects: [
+    {
+      title: "Eduassess",
+      isFeatured: true,
+      thumbnail: "/astro-portfolio/assets/images/eduassess.png",
+      githubUrl: "https://github.com/Capstone-Experimental",
+    },
+    {
+      title: "Eduassess",
+      isFeatured: true,
+      thumbnail: "/astro-portfolio/assets/images/eduassess.png",
+      liveUrl: "https://play.google.com/store/apps/details?id=com.unesa.eduasses&hl=en-ID",
+    },
     {
       title: "Assessment Link",
       isFeatured: true,
