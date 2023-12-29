@@ -6,7 +6,7 @@ export const info = {
 
   experience: [{
     name : "Cloud Computing Cohort, Bangkit Academy led by GoTo, Gojek, & Traveloka",
-    location: "Online",
+    location: "Yayasan Dicoding Indonesia",
     startDate: "Aug 2023",
     endDate: "Dec 2023",
     description: [
