@@ -63,9 +63,9 @@ export const info = {
 
   projects: [
     {
-      title: "Eduassess",
+      title: "knowZe",
       isFeatured: true,
-      thumbnail: "/astro-portfolio/assets/images/eduassess.png",
+      thumbnail: "/astro-portfolio/assets/images/knowze.png",
       githubUrl: "https://github.com/Capstone-Experimental",
     },
     {
