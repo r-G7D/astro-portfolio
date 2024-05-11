@@ -9,7 +9,7 @@ export const info = {
     name : "iOS Engineer, PT. Traveloka Indonesia",
     location: "Tangerang Selatan, Banten",
     startDate: "Feb 2024",
-    endDate: "Now",
+    endDate: "Present",
     description: []
   },
   {
