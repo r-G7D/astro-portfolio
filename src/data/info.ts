@@ -7,7 +7,7 @@ export const info = {
   experience: [
   {
     name : "iOS Engineer, PT. Traveloka Indonesia",
-    location: "Tangerang Selatan, Banten",
+    location: "South Tangerang, Banten",
     startDate: "Feb 2024",
     endDate: "Present",
     description: []
