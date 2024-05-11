@@ -4,7 +4,15 @@ export const info = {
   jobDescription: "Mobile Application Developer",
   about: `As an Informatics Engineering student specializing in Flutter, I have a proven track record in Mobile Application Development and Backend Development. Experienced in collaborating with cross-functional teams. Eager to contribute my skills and passion for innovation to future projects and collaborations.`,
 
-  experience: [{
+  experience: [
+  {
+    name : "iOS Engineer, PT. Traveloka Indonesia",
+    location: "Tangerang Selatan, Banten",
+    startDate: "Feb 2024",
+    endDate: "Now",
+    description: []
+  },
+  {
     name : "Cloud Computing Cohort, Bangkit Academy led by GoTo, Gojek, & Traveloka",
     location: "Yayasan Dicoding Indonesia",
     startDate: "Aug 2023",
