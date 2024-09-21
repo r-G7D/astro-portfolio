@@ -9,8 +9,14 @@ export const info = {
     name : "iOS Engineer, PT. Traveloka Indonesia",
     location: "South Tangerang, Banten",
     startDate: "Feb 2024",
-    endDate: "Present",
-    description: []
+    endDate: "Jun 2024",
+    description: [
+      "During my five-month internship at Traveloka, I gained hands-on experience in iOS development and enhanced my technical and professional skills. Key responsibilities and achievements include:",
+      "- Contributed to sprints involving UI improvements, bug fixes, and new feature development using SwiftUI and UIKit, leading to a more robust and user-friendly application.",
+      "- Attended iOS workshops and project management training sessions, learning best practices that I applied to improve project efficiency and quality.",
+      "- Managed scope changes during sprints, ensuring project alignment and timely delivery by proactively communicating with the team and stakeholders.",
+      "- Improved my coding efficiency, technical documentation, and presentation skills, contributing to clearer communication and better collaboration within the team."
+    ]
   },
   {
     name : "Cloud Computing Cohort, Bangkit Academy led by GoTo, Gojek, & Traveloka",
